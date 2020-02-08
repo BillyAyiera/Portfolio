@@ -42,4 +42,8 @@
   section p{
     font-size: x-large;
   }
+  section ol{
+    font-size: x-large;
+    color: black;
+  }
   
