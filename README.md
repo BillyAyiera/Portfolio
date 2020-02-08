@@ -11,7 +11,7 @@
 
 ## Author Name
 
-- **Billy Ayiera**
+> **Billy Ayiera**
 
 ## DESCRIPTION
 
