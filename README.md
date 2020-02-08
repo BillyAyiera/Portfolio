@@ -20,7 +20,7 @@
 ## Link to live site on Github Pages
 
 - You can vist the site directly by clicking [HERE](https://billyayiera.github.io/Portfolio/)
-- To view the source codes on github click [HERE]()
+- To view the source codes on github click [HERE](https://github.com/BillyAyiera/Portfolio)
 
 ## Licence
 
