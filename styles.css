@@ -48,8 +48,8 @@
   }
   footer{
     background-color: black;
-    padding-top: 2%;
-    padding-bottom: 2%;
+    padding-top: 1%;
+    padding-bottom: 1%;
     color: white;
     text-align: center;
   }
@@ -74,12 +74,11 @@
   .fa-twitter {
     background: #55ACEE;
     color: white;
-  }
-  .fa-skype {
-    background: #00aff0;
-    color: white;
-  }
+  }  
 .fa-instagram {
   background: #125688;
   color: white;
+}
+footer p{
+  font-size: x-large;
 }
