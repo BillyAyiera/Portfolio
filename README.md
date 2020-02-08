@@ -17,6 +17,10 @@
 
 - This is a website that expalains almost everything about me and what I do.
 
+##Project setup instructions
+
+- Click on the links below to view the site and/or the website's source code.
+
 ## Link to live site on Github Pages
 
 - You can vist the site directly by clicking [HERE](https://billyayiera.github.io/Portfolio/)
