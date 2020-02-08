@@ -46,4 +46,14 @@
     font-size: x-large;
     color: black;
   }
+  footer{
+    background-color: black;
+    padding-bottom: 8%;
+    color: white;
+  }
+  footer h1{
+    font-size: 300%;
+    text-align: center;
+  }
+  
   
