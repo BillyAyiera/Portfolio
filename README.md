@@ -17,7 +17,7 @@
 
 - This is a website that expalains almost everything about me and what I do.
 
-##Project setup instructions
+## Project setup instructions
 
 - Click on the links below to view the site and/or the website's source code.
 
