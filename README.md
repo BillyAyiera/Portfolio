@@ -15,7 +15,7 @@
 
 ## DESCRIPTION
 
-- This is a website that expalains almost everything about me and what I do.
+- This is a website that explains almost everything about me and what I do.
 
 ## Project setup instructions
 
